@@ -1,7 +1,7 @@
 {
   "name": "personal-website",
   "version": "0.1.0",
-  "homepage": "https://manojkr6637.github.io/reactjslive.git",
+  "homepage": "https://manojkr6637.github.io/reactjslive",
   "private": true,
   "dependencies": {   
     "@testing-library/jest-dom": "^5.17.0",
